@@ -5,7 +5,7 @@
 ### :bust_in_silhouette: About Me
   
 - :mortar_board: IT Degree Student
-- :keyboard: CTF player in [TryHackMe](https://tryhackme.com/p/Rakso) and [Hack The Box](https://app.hackthebox.com/profile/535069) 
+- :keyboard: CTF player in [TryHackMe](https://tryhackme.com/p/Rakso) and [Hack The Box](https://app.hackthebox.com/profile/472440) 
 - :pencil: I write articles on [https://r4kso.github.io/](https://r4kso.github.io/) (Spanish)
 
 <h3 align="left">:wrench: Languages and Tools</h3>
