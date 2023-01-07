@@ -13,7 +13,10 @@
 
 ### :closed_book: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- Pending
+- [OSCP Review](https://xdann1.github.io/posts/oscp-review/)
+- [GoodGames Writeup](https://xdann1.github.io/posts/writeup-goodgames/)
+- [Sizzle Writeup](https://xdann1.github.io/posts/writeup-sizzle/)
+- [Forest Writeup](https://xdann1.github.io/posts/writeup-forest/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">:envelope: Connect with me</h3>
