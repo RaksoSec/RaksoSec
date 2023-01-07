@@ -1,6 +1,4 @@
-<img src="https://github.com/xdann1/xDaNN1/blob/main/media/portada.jpg" height="250" width="750">
-
-<a><img src="https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&size=25&pause=1000&color=A251F7&multiline=true&width=435&lines=I'm+r4kso;IT+Degree+Student+%7C+Pentester+wannabe+%7C+CTF+Player" alt="Typing SVG" /></a>
+<img src="https://github.com/r4kso/r4kso/blob/main/media/portada.jpg" height="250" width="750">
 
 ### :bust_in_silhouette: About Me
   
