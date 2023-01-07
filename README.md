@@ -1,6 +1,6 @@
-<img src="https://github.com/xdann1/xDaNN1/blob/main/media/portada.jpg" height="500" width="1500">
+<img src="https://github.com/xdann1/xDaNN1/blob/main/media/portada.jpg" height="250" width="750">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&size=25&pause=1000&color=A251F7&multiline=true&width=435&lines=I'm+r4kso;IT+Degree+Student+%7C+Pentester+wannabe+%7C+CTF+Player" alt="Typing SVG" /></a>
+<a><img src="https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&size=25&pause=1000&color=A251F7&multiline=true&width=435&lines=I'm+r4kso;IT+Degree+Student+%7C+Pentester+wannabe+%7C+CTF+Player" alt="Typing SVG" /></a>
 
 ### :bust_in_silhouette: About Me
   
