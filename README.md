@@ -2,7 +2,7 @@
 
 ### :bust_in_silhouette: About Me
   
-- :mortar_board: IT Degree Student
+- :mortar_board: Computer Engineer
 - :keyboard: CTF player in [TryHackMe](https://tryhackme.com/p/Rakso) and [Hack The Box](https://app.hackthebox.com/profile/472440) 
 - :pencil: I write articles on [r4kso.tech](https://www.r4kso.tech/) (Spanish)
 
